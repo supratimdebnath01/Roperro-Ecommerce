@@ -1,0 +1,1519 @@
+@media (max-width: 2560px){
+    /* --------------------- General --------------------- */
+    .mobile-view{display: none;}
+    .desktop-view{display: block;}
+    .winter-collection-mobile{display: none;}
+    .monadaa-mobile-view{display: none;}
+    .jewewllery-section-mobile{display: none;}
+    .lerida-banner-mobile{display: none;}
+    .arkar-leather-discount-mobile-view{display: none;}
+    .arkar-banner-mobile{display: none;}
+    .about-banner-mobile{display: none;}
+    .contact-us-form-mobile{display: none;}
+    .monadaa-banner-mobile{display: none;}
+    .about-yellow-bg {transform: translate(20%, 40%);}
+    .monadaa-category-shop{display: none;}
+    .trendy-shopnow-mobile{display: none;}
+    .details-monadaa-mobile{display: none;}
+    .migear-new-arrival-mobile-view{display: none;}
+    .zimba-banner-mobile{display: none;}
+    .zimba-mobile-btn{display: none;}
+    .zimba-tranding-mobile{display: none;}
+    .migearhero-banner-mobile{display: none;}
+    .droppable:hover .mega-menu {display: block;}
+    .roperroproductshero-banner-mobile{display: none;}
+    .roperro-products-btn{display: none;}
+    .roperro-product-swiper-mobile{display: none;}
+
+    /* ---------------------- monadaa page --------------------- */
+    .monadaa-sec-heading1 h2 {
+        transform: translate(60%, -40%);
+        letter-spacing: 20px;
+    }
+    .details-monadaa p {width: 70%;}
+    .trendy-shopnow h3 {
+        left: 22%;
+    }
+}
+@media (max-width: 1920px){
+
+    /* --------------------- General --------------------- */
+    #hero {height: 100vh;}
+
+    .about-yellow-bg {transform: translate(20%, 17%);}
+
+    /* ------------------- Monadaa page -------------------- */
+    .monadaa-sec-heading1 h2 {
+        transform: translate(37%, -40%);
+        letter-spacing: 10px;
+    }
+    .trendy-shopnow h3 {
+        left: 13%;
+    }
+}
+
+@media (max-width: 1600px) {
+    
+
+  
+     /* ------------------------ Index Page ------------------------- */
+     /* brand section  */
+     .home-sec1 {padding: 60px 0 0;}
+     .sec-heading1 {margin-bottom: 60px;}
+    
+
+    /* New arrival section  */
+    .arrival-heading h2 {font-size: 120px;}
+    .swiper-button1 { right: 30px;}
+    .arrival-para { width: 71%;}
+
+     /*---------------------lerida page -----------------------------------------*/
+
+     /* New arrival section  */
+     .lerida-sec-heading1 p {width: 80%;}
+
+     /* lerida-tranding */
+     .lerida-sec-heading3 h2 {font-size: 120px;}
+     .section-heading3 {left: 25%;}
+
+     /*--------------------- Arkar page -----------------------------------------*/
+    .arkar-swiper-btn1{
+        right: 5%;
+        bottom: 50%;
+    }
+    .arkar-swiper-btn2{
+        left: 5%;
+        bottom: 50%;
+    }
+
+    /*--------------------- About page -----------------------------------------*/
+
+    .about-yellow-bg {transform: translate(15%, 8%);}
+    .about-yellow-bg2 h3 {left: 165px;}
+    .about-us-banner h2 {
+        letter-spacing: 55px;
+        left: 15%;
+    }
+
+    /* ------------------------ Monadaa page------------------------------ */
+    .leather-collection {padding: 40px 0 40px;}
+    .new-collection-monadaa h3 {font-size: 80px;}
+    .monadaa-sec-heading1 h2 {
+        font-size: 120px;
+        transform: translate(32%, -40%);
+        letter-spacing: 10px;
+    }
+    .trendy-shopnow h3 {
+        font-size: 45px;
+        left: 13%;
+    }
+    .trendy-shopnow p {
+        font-size: 18px;
+    }
+
+    .details-monadaa p {
+        width: 90%;
+    }
+    .monadaa-sec-heading2 h2 {
+        font-size: 55px;
+    }
+    .monadaa-sec-heading2 p {
+        width: 100%;
+    }
+
+    /*--------------------- Migear Page -----------------------------------------*/
+
+    .collections p {right: 45px;}
+
+    /*--------------------- Zimba Page -----------------------------------------*/
+    .zimba-tranging-bg img {
+        width: 85%;
+    }
+
+    /*---------------------footer-----------------------------------------*/
+
+    #footer { padding: 180px 100px 40px; } 
+    
+
+}
+
+
+@media (max-width: 1440px) {
+    /*--------------------- General -----------------------------------------*/
+    .navigation { padding: 0 100px;}
+    #header {padding: 20px 25px;} 
+    #hero { height: 90vh;}
+
+    /*--------------------- Index page -----------------------------------------*/
+    
+    /* arrival section  */
+    .home-sec2 {padding: 80px 100px;}
+    .arrival-heading h2 {font-size: 115px;}
+    .arrival-heading p {font-size: 22px;}
+    .arrival-para {width: 70%; font-size: 22px;}
+    .arrival-btn p {width: 85%; font-size: 20px;}
+
+    /* winter collection  */
+    .section-heading2 h2 { font-size: 50px;}
+
+    /* Discount  */
+    .section-heading3 {left: 25%; }
+   
+
+
+    /*--------------------- lerida page -----------------------------------------*/
+     /* Banner section  */
+     .lerida-banner img{width: 20%;}
+
+    /* New arrival section  */
+    .lerida-sec-heading1 p {width: 90%;}
+    .section-heading3 {
+        left: 28%;
+    }
+
+     /*--------------------- Arkar page -----------------------------------------*/
+    .arkar-sec-heading3 {right: 0%;}
+    .arkar-our-collection-right, .arkar-our-collection-left { top: 45%;}
+    .arkar-our-collection-men {top: 45%;left: 5%;}
+    .arkar-discount-bg {transform: translate(30%, 35%);}
+
+    /*--------------------- About page -----------------------------------------*/
+    #hero h2 {letter-spacing: 50px;}
+    .about-yellow-bg {
+        width: 600px;
+        height: 570px;
+        padding: 0px;
+    }
+    .about-yellow-bg2 {
+        width: 565px;
+        height: 530px;
+        transform: translate(3%, 4%);
+    }
+    .about-yellow-bg2 h2 {
+        font-size: 110px;
+    }
+    .about-yellow-bg2 h3 {
+        font-size: 45px;
+        top: 130px;
+        left: 165px;
+    }
+    .about-yellow-bg2 p {
+        font-size: 14px;
+    }
+    .about-us-banner h3 {
+        left: 35%;
+    }
+    /*--------------------- monadaa page -----------------------------------------*/
+     .new-collection-monadaa h3 {font-size: 70px;}
+     .monadaa-banner img{width: 35%;}
+     .monadaa-sec-heading1 h2 {font-size: 105px; }
+    .details-monadaa {padding: 60px 45px 40px;}
+
+    /*--------------------- Roperro-products page -----------------------------------------*/
+    .product-listing-txt h5 {  font-size: 18px;}
+    /*---------------------footer-----------------------------------------*/
+    #footer { padding: 180px 50px 40px; }
+
+}
+
+@media (max-width: 1366px) {
+    /*--------------------- General -----------------------------------------*/
+    .navbar .dropdown .dropdown ul {left: -90%;}
+    .navbar .dropdown .dropdown:hover > ul {left: -100%;}
+    #hero {height: 100vh;}
+
+    /* ------------------------- Index page ------------------------------- */
+
+    /* Our brands  */
+    .sec-heading1 p {font-size: 22px;}
+    .sec-heading1 h2 {font-size: 65px;}
+    .brand-logo {top: 155px; right: 55px; }
+    
+
+    /* arrival part  */
+    .arrival-heading p {font-size: 22px;}
+    .swiper-button1 {bottom: 200px; right: 35px;}
+    .swiper-button2{bottom: 200px;}
+
+    /* Winter collection  */
+    .section-heading2 {top: 90px;}
+    .section-heading2 h2 { font-size: 40px; }
+    
+     /* ------------------------- Lerida page ------------------------------- */
+
+     /* New arrival section  */
+    .lerida-sec-heading1 h2 {font-size: 60px;}
+    .lerida-sec-heading1 p {width: 85%; font-size: 18px;}
+    .turquoise-clr-btn {padding: 10px 30px; font-size: 20px;}
+
+    /* lerida-category */
+    .lerida-category-shop h3 {font-size: 60px;}
+    .turquoise-white-clr-btn {padding: 10px 30px; font-size: 20px;}
+
+    /* Best seller */
+    .best-seller {padding: 80px 0;}
+
+    /* Tranding section */
+    .lerida-sec-heading3 h2 { font-size: 90px;}
+
+    /* ---------------------------- Arkar page ---------------------------------- */
+
+    .arkar-sec-heading1 h2 {font-size: 60px;}
+    .arkar-sec-heading2 p { width: 100%; font-size: 16px;}
+    .arkar-logo {width: 260px;}
+    .arkar-sec-heading1 {padding: 55px 0;}
+    .arkar-style-slider {padding: 30px 0; display: flex;}
+    .arkar-discount-bg {
+        right: 72%;
+        height: 350px;
+        width: 360px;
+    }
+    .arkar-sec-heading3 {left: 20%;}
+    .arkar-discount-txt { padding: 30px;}
+    .arkar-discount-bg h2, h3 {font-size: 40px;}
+    .arkar-discount-bg h3 {font-size: 18px;}
+
+    /* ---------------------------- About page ---------------------------------- */
+
+    .about-yellow-bg {transform: translate(15%, 6%);}
+
+
+    /* ---------------------------- Contact page ---------------------------------- */
+    .contact-sec-heading1 p {width: 70%;}
+
+    /* ---------------------------- monadaa page ---------------------------------- */
+    .monadaa-sec-heading1 h2 {font-size: 100px;}
+
+    /* --------------------------- Migear page ---------------------- */
+    .collections p {right: 45px; font-size: 22px;}
+    .collections { padding: 60px 60px 80px;}
+    .migear-sec-heading1 h2 {font-size: 55px;padding-bottom: 0px;}
+    .migear-white-btn {font-size: 18px;}
+    .migear-sec-heading2 h2, .migear-sec-heading3 h2, .migear-sec-heading4 h2 {font-size: 55px;}
+    .migear-sec-heading3 p {font-size: 18px; width: 100%;}
+    .migear-sec-heading4 p {font-size: 18px;}
+
+    /* --------------------------- Zimba page ---------------------- */
+    .summer-girl { width: 35%; top: 10%;}
+
+    /*--------------------- Roperro-products page -----------------------------------------*/
+    .roperro-more-products {margin-top: 50px;}
+
+  }
+
+@media (min-width: 1280px) and (max-width: 1366px) {
+
+    /*--------------------- General -----------------------------------------*/
+    .navbar .dropdown .dropdown ul {left: -90%; }
+    .navbar .dropdown .dropdown:hover > ul { left: -100%;}
+    .mega-menu {
+        width: 88%;
+    }
+    /* ------------------------------- Index page ---------------------------- */
+    /* arrival part  */
+    .arrival-para { width: 86%;}
+    .about-yellow-bg2 p {
+        font-size: 13px;
+    }
+
+
+    /*-----------------------------lerida page -----------------------------------------*/
+    .tranding-txt {top: 240%;}
+
+    /*---------------------footer-----------------------------------------*/
+    #footer { padding: 150px 50px 40px; }
+}
+@media (max-width: 1280px){
+
+    /* ------------------------------- Index page ---------------------------- */
+
+    /* Arrival section  */
+    .arrival-heading h2 {font-size: 95px;}
+    .arrival-btn p {width: 100%; font-size: 18px;}
+    .swiper-button1, .swiper-button2 {bottom: 235px;}
+    .lerida-swiper-btn {bottom: 50%;}
+    .arkar-discount-bg {right: 70%;}
+
+    /* ------------------------------- About page ---------------------------- */
+    #hero h2 {
+        font-size: 100px;
+        letter-spacing: 35px;
+    }
+    .about-us-banner h3 {
+        font-size: 60px;
+        top: 35%;
+        left: 35%;
+        
+    }
+    .about-sec-heading1 p {font-size: 16px;}
+    .about-sec-heading1 h2 {font-size: 30px;}
+    .about-yellow-bg {
+        width: 525px;
+        height: 520px;
+        transform: translate(15%, 8%);
+    }
+    .about-yellow-bg2 {
+        width: 495px;
+        height: 480px;
+        padding: 40px;
+    }
+    .about-yellow-bg2 h3 {
+        top: 110px;
+        left: 130px;
+    }
+    .about-sec-heading2 h2 {font-size: 60px;}
+    .about-sec-heading2 p {font-size: 16px;}
+
+    /*--------------------- Monadaa page -----------------------------------------*/
+    .monadaa-sec-heading1 h2 {
+        transform: translate(25%, -40%);
+    }
+    .details-monadaa {
+        padding: 16px 45px 40px;
+    }
+    .details-monadaa h2 {
+        font-size: 50px;
+    }
+    .details-monadaa p {
+        font-size: 18px;
+    }
+    .monadaa-gift-collection {
+        padding: 100px 70px;
+    }
+    .monadaa-sec-heading2 h2 {
+        font-size: 50px;
+    }
+    /*--------------------- Zimba page -----------------------------------------*/
+    .zimba-tranging-bg img {width: 70%;}
+    .zimba-summer-collection {padding: 130px 0;}
+
+    /*--------------------- Roperro-products page -----------------------------------------*/
+    .roperro-product-category {padding: 60px;}
+
+    /*--------------------- Footer page -----------------------------------------*/
+    .email-label {
+        font-size: 16px;
+    }
+    .easy-return {
+        margin-left: 10px;
+    }
+
+    .footer-genuine_icons {
+        margin: 80px 0px;
+    }
+}
+@media (max-width: 1199.98px) {
+
+    /*--------------------- General -----------------------------------------*/
+    .header-padding {padding: 0 15px;}
+    #hero .carousel-control-prev, #hero .carousel-control-next { width: 5%;}
+    #hero {height: 75vh;}
+    .megamenu-padding { padding: 0;}
+    .mega-menu {margin: 0 56px;}
+    .navbar a{font-size: 14px;}
+    /* ------------------------ Index page --------------------- */
+
+    /* banner part */
+    .banner-logo-desktop img { width: 40%;}
+    .sec-heading1 p {font-size: 20px;}
+    .sec-heading1 h2 {font-size: 55px;}
+    .yellow-btn {padding: 10px 25px; font-size: 16px;}
+   
+    /* Our Brand  */
+    .brand-logo {top: 100px; right: 25px;}
+    .brand-logo img{width: 60%;}
+    .index-white-btn , .index-black-btn {padding: 10px 25px; font-size: 16px;}
+    .logo-width-monadaa{width: 450px;}
+
+    /* arrival section  */
+    .home-sec2 {padding: 80px 60px;}
+    .arrival-heading p {font-size: 18px;}
+    .arrival-heading h2 {font-size: 80px;}
+    .view-btn {padding: 10px 30px;font-size: 16px;}
+    .swiper-button1, .swiper-button2 {bottom: 260px;}
+    .buy-now-btn{opacity: 1;}
+
+    /* winter collection  */
+    .section-heading2 {top: 50px;}
+    .blank-btn , .her-yellow-btn {padding: 10px 25px; font-size: 16px;}
+
+    /* Discount part  */
+    .section-heading3 h2 {font-size: 55px;}
+   
+   
+   
+
+    /*--------------------- lerida Page -----------------------------------------*/
+
+    /* arrival section  */
+    .lerida-arrival { padding: 80px;}
+    .lerida-sec-heading1 h2 {font-size: 50px;}
+    .lerida-sec-heading1 p {width: 85%; font-size: 13px; margin-bottom: 30px;}
+    .lerida-swiper-btn {bottom: 50%;}
+
+  
+    
+    /* Category  */
+    .lerida-category-shop h3 {font-size: 45px;}
+    .lerida-category-shop {gap: 10px;}
+    .turquoise-white-clr-btn {padding: 10px 25px; font-size: 18px;}
+
+    /* Best seller  */
+    .best-seller { padding: 60px 0;}   
+    .lerida-sec-heading2 h2 { font-size: 50px;}
+    .lerida-sec-heading2 p { font-size: 18px;}
+
+    /* Tranding section  */
+    .lerida-tranding {padding: 80px 50px 50px;}
+    .lerida-sec-heading3 h2 {font-size: 65px;}
+
+    /* Discount  */
+    .section-heading3 h3 {
+        font-size: 85px;
+        color: #C48C55;
+    }
+
+    /* -------------------- Migear page ----------------------------- */
+    .migear-sec-heading1 h2 {
+        font-size: 50px;
+        padding-bottom: 60px;
+    }
+    
+    .collections p {
+        font-size: 20px;
+        right: 20px;
+    }
+    /* -------------------- Arkar page ------------------------------------- */
+    .arkar-logo {width: 200px;}
+    .arkar-banner {gap: 30px;}
+    .arkar-sec-heading1 h2 {font-size: 50px;}
+    .arkar-our-collection {
+        top: 30%;
+        right: 70%;
+        gap: 5px;
+    }
+    .arkar-our-collection h3 span { font-size: 40px;}
+    .arkar-our-collection h3 {font-size: 18px;}
+    .arkar-sec-heading1 p {font-size: 13px;}
+    .arkar-sec-heading2 h2 {font-size: 60px;}
+    .arkar-sec-heading2 p {font-size: 16px;}
+    .arkar-discount-bg h2, h3 {font-size: 40px;}
+    .arkar-discount-bg {
+        height: 250px;
+        width: 250px;
+        right: 75%;
+        bottom: 50%;
+    }
+    .arkar-discount-txt img {width: 40%;}
+    .arkar-discount-bg p {font-size: 12px;}
+    .arkar-discount-bg h2, h3 {font-size: 30px;}
+    .arkar-discount-txt {padding: 15px;}
+    .arkar-our-collection-right, .arkar-our-collection-left, .arkar-our-collection-men {top: 35%;}
+    
+    .arkar-sec-heading2 {padding: 40px;}
+    .arkar-sec-heading2 p {font-size: 14px;}
+    .arkar-our-collection-left h3,.arkar-our-collection-right h3, .arkar-our-collection-men h3 {font-size: 30px;}
+    .arkar-our-collection-left h3 span ,.arkar-our-collection-right h3 span, .arkar-our-collection-men h3 span {font-size: 40px;}
+    .arkar-sec-heading3 h2 {font-size: 40px;}
+    .arkar-sec-heading3 p {font-size: 16px;}
+    .arkar-bestseller {
+        padding: 50px 0;
+        background-color: #000;
+        position: relative;
+    }
+    .swiper-button1, .swiper-button2 {bottom: 180px;}
+    .arkar-bestseller {padding: 30px 0 60px;}
+    .arkar-sec-heading2 h2 {font-size: 40px;}
+    .arkar-discount-bg h3 {
+        font-size: 14px;
+    }
+    .arkar-sec-heading3 p {
+        width:100%;
+    }
+
+    /*---------------------About page-----------------------------------------*/
+    .about-sec-heading1 p {font-size: 14px;}
+    .about-sec-heading1 h2 {
+        font-size: 24px;
+        margin-top: 40px;
+    }
+    .about-yellow-bg {
+        width: 460px;
+        height: 370px;
+        transform: translate(10%, 15%);
+    }
+    .about-yellow-bg2 {
+        width: 433px;
+        height: 340px;
+        padding: 10px;
+    }
+    .about-yellow-bg2 h2 {
+        font-size: 80px;
+    }
+    .about-yellow-bg2 h3 {
+        top: 60px;
+        left: 132px;
+        font-size: 32px;
+    }
+    .about-yellow-bg2 p {
+        font-size: 11px;
+    }
+
+    /*---------------------Contact page-----------------------------------------*/
+    .contact-service {height: 40vh;}
+    .contact-sec-heading1 h2 { font-size: 55px;}
+    .contact-sec-heading1 p {
+        font-size: 18px;
+        width: 90%;
+        margin: 45px 0;
+    }
+    .right-div {
+        margin-right: 35px;
+    }
+
+
+    /*---------------------monadaa page-----------------------------------------*/
+    .new-collection-monadaa h3 {font-size: 50px;}
+    .details-monadaa p { font-size: 20px;}
+    .new-collection-monadaa h2 {font-size: 50px;}
+    .new-collection-monadaa p {font-size: 18px;}
+    .leather-collection { padding: 40px 0 0;}
+    .monadaa-sec-heading1 h2 {
+        font-size: 80px;
+        transform: translate(30%, -35%);
+        letter-spacing: 5px;
+    }
+    .trendy-shopnow h2 {
+        font-size: 50px;
+        margin-bottom: 20px;
+    }
+    .trendy-shopnow h3 {
+        font-size: 35px;
+        left: 10%;
+    }
+    .trendy-shopnow p { font-size: 13px;}
+    .details-monadaa {padding: 0px 25px 0px;}
+    .details-monadaa p {
+        font-size: 16px;
+        width: 100%;
+    }
+    .monadaa-margin { margin: 25px 0;}
+    .details-monadaa h2 {font-size: 45px;}   
+    .monadaa-sec-heading2 h2 {font-size: 40px; }
+    .monadaa-sec-heading2 h3 { font-size: 18px;}
+    .monadaa-sec-heading2 p {
+        font-size: 16px;
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .monadaa-gift-collection { padding: 65px 5px;}
+
+
+     /* --------------------------- Zimba page ---------------------- */
+     .zimba-banner img{width: 20%;}
+     .zimba-sec-heading1 h2 {font-size: 50px;}
+     .zimba-collection {padding: 40px;}
+     .zimba-sec-heading1 p { font-size: 16px;}
+     .zimba-cat-sec h3 {font-size: 45px;}
+    .zimba-cat-sec {gap: 10px;}
+    .zimba-trending h2 {font-size: 45px;}
+    .zimba-trending {padding: 80px 0;}
+    .zimba-summer-collection {padding: 100px;}
+    .zimba-sec-heading3 h2 {font-size: 55px;}
+    .summer-girl {top: 0;}
+    
+    /*--------------------- Roperro-products page -----------------------------------------*/
+    .roperro-product-category {padding: 60px 20px;}
+    .btn-secondary {gap: 10px;}
+    .roperro-product-gallery {padding: 20px 20px 50px;}
+
+    /*---------------------footer-----------------------------------------*/
+    #footer { padding: 120px 50px 40px; }
+    .footer-title {font-size: 16px;}
+    .list .link {font-size: 14px;}
+    .advantage p {font-size: 13px; margin-left: 15px; margin-top: 12px;}
+    .copyright { font-size: 14px;}
+    .easy-return {margin-top: 20px;}
+    
+
+}
+
+@media (max-width: 991.98px) {
+
+     /*------------------------- General -----------------------------------------*/
+    /* .mobile-nav-toggle { display: block;}
+    .navbar ul {display: none; } */
+    #hero {height: 72vh;}
+    #hero .carousel-container {top: 8px;}
+    .mega-menu {
+        margin: 0;
+        width: 100%;
+        background: transparent;
+        box-shadow: none;
+        height: 100%;
+        position: static;
+        overflow-x: hidden;
+    }
+
+    .megamenu-padding {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .mega-menu ul {
+        position: static;
+        width: 100%;
+        overflow-x: hidden;
+        margin-left: 30px;
+    }
+
+    .mega-menu ul li {
+        margin-left: 25px;
+    }
+
+    .mobile-mega-col {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .mega-menu ul li {
+        margin-left: 10px;
+    }
+
+    .droppable:hover .mega-menu {
+        display: none;
+    }
+
+    .showcollectionmobile {
+        display: block !important;
+    }
+
+    
+   /* ----------------------------- index page --------------------- */
+
+   /* Our brands  */
+    .brands {padding: 40px 0 0;}
+    
+    /* arrival  */
+    .view-btn {font-size: 16px;}
+    .swiper-button1 {right: 50px;}
+
+ 
+
+    /*--------------------- lerida page-----------------------------------------*/
+    .lerida-sec-heading1{margin-bottom: 50px;}
+    .lerida-sec-heading1 p {
+        width: 100%;
+    }
+    .lerida-sec-heading3 h2 {
+        font-size: 50px;
+        transform: rotate(0deg);
+        text-align: center;
+        margin-bottom: 30px;
+        top: 30px;
+    }
+    .lerida-tranding {
+        padding: 150px 50px 80px;
+    }
+    .lerida-banner img {
+        width: 28%;
+    }
+
+
+    /* ----------------------- Arkar page ---------------------------------- */
+  
+    .arkar-discount-bg {
+        height: 250px;
+        width: 250px;
+        right: 73%;
+    }
+    .arkar-sec-heading2, .arkar-sec-heading3 {
+        padding: 45px;
+    }
+    .arkar-sec-heading3 p {
+        font-size: 14px;
+        width:100%;
+        margin-bottom: 25px;
+    }
+    .arkar-sec-heading3 h2 {
+        font-size: 35px;
+    }
+    .arkar-our-collection {
+        top: 45%;
+        right: 70%;
+    }
+    /* ------------------------ About page-------------------------------- */
+    .about-us-banner h3 {
+        font-size: 50px;
+    }
+    .about-sec-heading1 p {font-size: 12px;}
+    .about-sec-heading1 h2 {
+        font-size: 25px;
+        margin-top: 30px;
+    }
+    .about-yellow-bg { transform: translate(10%, 12%);}
+    .about-sec-heading2 h2 {
+        font-size: 50px;
+    }
+    /* ------------------------ Contact page-------------------------------- */
+    .contact-sec-heading1 p {
+        font-size: 18px;
+        width: 100%;
+    }
+    .right-div { margin-right: 13px;}
+    .detail-contact p {font-size: 12px;}
+
+    /* ------------------------ Monadaa page-------------------------------- */
+    .store-txt {margin-bottom: 40px;}
+    .new-collection-monadaa p {font-size: 15px;}
+    .monadaa-sec-heading1 h2 {font-size: 75px;}
+    .trendy-shopnow p { margin-bottom: 60px;}
+    .black-btn2 {
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+    /* ------------------------ Migear page-------------------------------- */
+    .migear-sec-heading1 h2 {
+        padding-bottom: 0px;
+    }
+    .migear-sec-heading2 h2, .migear-sec-heading3 h2, .migear-sec-heading4 h2 {
+        font-size: 40px;
+    }
+    /* ------------------------ zimba page-------------------------------- */
+    .zimba-collection {padding: 30px;}
+    .zimba-our-heading h3 {font-size: 50px;}
+    .zimba-our-heading p {font-size: 16px;}
+    .zimba-summer-collection {
+        padding: 100px 0;
+    }
+    .zimba-sec-heading3 h2 {
+        font-size: 40px;
+    }
+    .zimba-sec-heading3 p {
+        font-size: 16px;
+        
+    }
+    .turquoise-clr-btn {
+        padding: 10px 20px;
+        font-size: 18px;
+    }
+
+    /* ------------------- T&C page -------------------------- */
+    .tc-heading {padding: 60px 0 0;}
+
+    /*--------------------- Roperro-products page -----------------------------------------*/
+    .roperroproducts-banner h2 {font-size: 50px !important;}
+    .roperro-filter {padding: 40px 40px 90px 40px;}
+    .roperro-dropdown {gap: 30px;}
+    .roperro-product-sec-heading1 h2 {font-size: 50px;}
+
+    /*---------------------footer-----------------------------------------*/
+    .footer-logo{margin: 0 auto 50px; display: block; }
+    #footer {padding: 80px 30px 40px;}
+    .social-icon {font-size: 20px;}
+    .email-input { width: 100%;}
+    .footer-genuine_icons {
+        margin: 0 0 50px;
+    }
+    
+
+}
+
+@media (max-width: 800px){
+
+    /*------------------------- General -----------------------------------------*/
+     #hero {height: 62vh;}
+     #hero h2 {font-size: 70px; letter-spacing: 30px;}
+
+    /* ------------------------------- Index page -------------------- */
+
+    /* banner  */
+    .banner-logo-desktop img {width: 35%;}
+    .banner-logo-desktop { gap: 20px;}
+
+    /* Our Brands  */
+    .home-sec1 { padding: 40px 0 0;}
+    .sec-heading1 {margin-bottom: 40px;}
+    .sec-heading1 p {font-size: 18px;}
+    .sec-heading1 h2 {font-size: 50px;}
+    .brand-logo {top: 65px; right: 5px;}
+    .logo-width-monadaa{width: 355px;}
+  
+    /* arrival section  */
+    .home-sec2 {padding: 80px 40px 40px;}
+    .arrival-heading h2 {font-size: 65px;}
+    .arrival-btn p {font-size: 15px;}
+    .arrival-heading p {font-size: 16px;}
+    .arrival-btn {padding: 0 0 20px;}
+    .swiper-button1, .swiper-button2 {bottom: 135px;}
+    .swiper-button1 {right: 15px;}
+    .swiper-button2 {left: 15px;}
+  
+    /* Discount  */
+    .section-heading3 h2 {font-size: 45px;}
+    .section-heading3 p {font-size: 16px;}
+    
+
+    /*-------------------------- lerida page -----------------------------------------*/
+    
+    .lerida-sec-heading1 p {width: 50%;}
+    .section-heading3 h3 {font-size: 75px;}
+
+    /*-------------------------- Arkar page -----------------------------------------*/
+
+    .arkar-our-collection {
+        top: 40%;
+        right: 63%;
+    }
+    .arkar-sec-heading2 p {width: 100%; margin-bottom: 30px;}
+    .arkar-discount-bg {right: 69%;height: 220px;width: 230px;}
+    .arkar-discount-bg h2, h3 { font-size: 25px;}
+
+
+    /*-------------------------- About page -----------------------------------------*/
+    .about-sec-heading1 h2 {
+        font-size: 24px;
+    }
+    .about-yellow-bg {
+        width: 550px;
+        height: 315px;
+        transform: translate(10%, 10%);
+        background-color: rgb(183, 138, 48, 0.9);
+    }
+    .about-yellow-bg2 {
+        width: 520px;
+        height: 295px;
+        padding: 10px;
+    }
+    .about-yellow-bg2 h2 {
+        font-size: 55px;
+        margin-bottom: 10px;
+    }
+    .about-yellow-bg2 h3 {
+        top: 45px;
+        left: 200px;
+        font-size: 22px;
+    }
+    .about-yellow-bg2 p {
+        font-size: 12px;
+    }
+    .aboutus-our-brands {
+        background-color: #0C0C0C;
+        padding: 40px 0 80px;
+    }
+    .about-sec-heading2 h2 {
+        font-size: 45px;
+    }
+    .about-sec-heading2 p {
+        font-size: 14px;
+    }
+
+   /*------------------------- Contact page -----------------------------------------*/
+    .contact-sec-heading1 p {font-size: 16px;}
+    .new-collection-monadaa p {font-size: 14px;}
+    .monadaa-sec-heading1 h2 {font-size: 60px;}
+    .trendy-shopnow h2 {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .trendy-shopnow h3 {
+        font-size: 25px;
+        left: 15%;
+    }
+    .trendy-shopnow p {
+        font-size: 10px;
+        margin-bottom: 45px;
+    }
+
+    /*------------------------- Monadaa page -----------------------------------------*/
+    .new-collection-monadaa h2 {font-size: 35px;}
+    .details-monadaa p {font-size: 13px;}
+    .monadaa-sec-heading2 h2 {font-size: 30px;}
+    .monadaa-sec-heading2 p {font-size: 12px; margin-bottom: 40px;}
+    .monadaa-margin {margin: 10px 0 0;}
+
+    /*------------------------- Migear page -----------------------------------------*/
+    .migear-sec-heading1 h2 {font-size: 40px;}
+    .collections {padding: 45px 60px 80px;}
+    .migear-sec-heading2 h2, .migear-sec-heading3 h2, .migear-sec-heading4 h2 {font-size: 35px;}
+    .migear-white-btn {padding: 10px 25px; font-size: 16px;}
+    .migear-sec-heading2 {gap: 20px;}
+    .migear-sec-heading3 {gap: 5px; padding-left: 15px;}
+    .migear-sec-heading3 p , .migear-sec-heading4 p { font-size: 14px;}
+    .migear-sec-heading1 h2 {padding-bottom: 0;}
+
+     /*------------------------- Zimba page -----------------------------------------*/
+    .zimba-trending h2 { font-size: 35px;}
+    .zimba-tranging-bg img {width: 50%; }
+
+    /*------------------------- Roperro-products page -----------------------------------------*/
+    .roperro-dropdown2 {right: 45px;}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  
+}
+
+@media (min-width:768px) and (max-width :799.98px){
+
+    /*------------------------- General -----------------------------------------*/
+    .section-heading2 {gap: 10px;}
+
+    /*------------------------- About page -----------------------------------------*/
+
+    .about-sec-heading1 h2 {font-size: 22px;}
+    .about-yellow-bg {transform: translate(10%, 7%);}
+
+    /*------------------------- contact page -----------------------------------------*/
+    .contact-service h2 {
+        font-size: 40px;
+    }
+    .contact-sec-heading1 h2 {
+        font-size: 40px;
+    }
+    .contact-sec-heading1 p {
+        font-size: 14px;
+    }
+    .form-head {
+        font-size: 16px;
+    }
+    .yellow-btn2 {
+        padding: 10px 45px;
+        font-size: 18px;
+    }
+
+    /*------------------------- Zimba page -----------------------------------------*/
+
+    .zimba-cat-sec h3 {font-size: 35px;}
+    .zimba-cat-sec {top: 40%;}
+    .summer-girl {
+        top: 10%;
+    }
+    
+
+}
+
+@media (max-width: 767.98px) {
+
+     /*---------------------General-----------------------------------------*/
+
+     /* #header {padding: 20px 0px;} */
+     #hero {height: 81vh;}
+
+    /*---------------------banner-----------------------------------------*/
+    /* #hero h2 { font-size: 28px; }
+    .clients img {max-width: 40%;}
+    .homeherosection .slide1{background-image: url(../img/mobileherohome1.jpg)}
+    .homeherosection .slide2{background-image: url(../img/mobileherohome2.jpg)} */
+
+    /* ----------------------- index page ------------------- */
+
+    /* banner section  */
+    .banner-logo-desktop img { width: 40%;}
+
+    /* Brand part  */
+    .brand-logo {gap: 10px;}
+    .sec-heading1 h2 {font-size: 40px;}
+    .sec-heading1 p {font-size: 16px;}
+    .index-white-btn, .index-black-btn {padding: 10px 20px;font-size: 14px;}
+
+    /* Arrival part  */
+    .arrival-heading h2 {font-size: 50px;}
+    .arrival-heading p {font-size: 14px;}
+    .arrival-btn p {font-size: 13px; margin-bottom: 14px;}
+    .view-btn {padding: 10px 20px; font-size: 14px;}
+    .swiper-button1, .swiper-button2 {bottom: 50%;}
+    .swiper-img{width: 100%;}
+
+    /* Winter collection  */
+    .section-heading2 h2 {font-size: 30px;}
+    .section-heading2 {top: 10px;  gap: 15px;}
+   
+    /* Discount part  */
+    .section-heading3 h2 {font-size: 35px;}
+    
+     /*----------------------------------------- lerida Page -----------------------------------------*/
+    /* .leridaherosection .slide1{background-image: url(../img/mobileherolerida1.jpg)}
+    .leridaherosection .slide2{background-image: url(../img/mobileherolerida2.jpg)} */
+    .tranding-txt {font-size: 40px;top: 200%;}
+    .for-her {top: 115%;}
+    .shop-category p { font-size: 35px;}
+    .for-him {top: 175%; }
+
+    .lerida-sec-heading1 p {
+        width: 90%;
+    }
+
+    /*--------------------- monadaa page-----------------------------------------*/
+    
+    .black-btn2 {padding: 15px 35px; font-size: 18px;}
+    .details-monadaa { padding: 70px 30px 80px;}
+    .responsive-img img{width: 100%;}
+    .new-collection-monadaa h3 {font-size: 40px;}
+    .leather-collection {padding: 30px 10px 15px;}
+    .store-txt {margin-bottom: 55px;}
+    .details-monadaa p {margin-bottom: 5px;}
+    .new-collection-monadaa h2 {font-size: 23px;}
+    .new-collection-monadaa p {font-size: 13px;}
+    .monadaa-sec-heading1 h2 {
+        font-size: 45px;
+        transform: translate(23%, -40%);
+    }
+    .monadaa-sec-heading1 {padding: 30px 0;}
+    .details-monadaa {padding: 5px 20px 0px;}
+    .black-btn2 {
+        padding: 10px 15px;
+        font-size: 11px;
+    }
+    .details-monadaa h2 {font-size: 30px;}
+    .details-monadaa p {font-size: 10px;}
+    .monadaa-margin {margin: 10px 0 10px;}
+    .monadaa-sec-heading2 h2 {font-size: 25px;}
+    .monadaa-sec-heading2 h3 {font-size: 14px;}
+    .monadaa-sec-heading2 p {font-size: 12px;}
+
+    /*------------------ migear page-----------------------------------*/
+    .migear-banner img{width: 50%;}
+    .migear-banner {gap: 30px;}
+    .migear-sec-heading1 h2 {font-size: 40px;}
+    .collections p {right: 25px; font-size: 20px; bottom: 80px;}
+   
+
+    /*------------------ arkar page -----------------------------------*/
+    .arkar-collection {padding: 30px 0;}
+    .our-heading h3 {font-size: 25px;}
+    .our-heading p {font-size: 10px;}
+
+    /*------------------ About page -----------------------------------*/
+    .about-why-us {
+        padding: 60px 0;
+    }
+    .about-sec-heading1 p {font-size: 10px;}
+    .about-sec-heading1 h2 {font-size: 17px;}
+    .about-yellow-bg {
+        width: 445px;
+        height: 280px;
+        transform: translate(10%, 4%);
+    }
+    .about-yellow-bg2 {
+        width: 420px;
+        height: 260px;
+        padding: 15px;
+    }
+    .about-yellow-bg2 h2 {
+        font-size: 45px;
+        margin-bottom: 5px;
+    }
+    .about-yellow-bg2 h3 {
+        top: 40px;
+        left: 155px;
+        font-size: 20px;
+    }
+    .about-yellow-bg2 p {font-size: 10px;}
+
+    /*------------------Zimba page -----------------------------------*/
+    .zimba-collection {padding: 25px;}
+    .zimba-sec-heading1 h2 {font-size: 30px;}
+    .zimba-sec-heading1 p {font-size: 10px;}
+    .zimba-cat-sec h3 {font-size: 30px;}
+    .zimba-cat-sec {top: 30%;}
+    .zimba-tranging-bg img {display: none;}
+    .zimba-summer-collection {padding: 50px 0;}
+    .zimba-sec-heading3 h2 {margin-bottom: 30px;}
+
+    /*------------------  T&C page -----------------------------------*/
+    .tc-heading h3 { font-size: 39px;}
+
+    /*--------------------- Roperro-products page -----------------------------------------*/
+    .roperro-product-sec-heading1 h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .roperro-product-category {padding: 60px 0px 30px;}
+    .btn-secondary { font-size: 13px;}
+    .roperro-cate-slide p {font-size: 16px;}
+    .roperro-products-more-btn {font-size: 16px;}
+    .product-listing-txt h5 {font-size: 16px;}
+    .pagination {
+        justify-content: center;
+        margin-top: 20px;
+    }
+    .dropdown-item {font-size: 13px; }
+
+    /*---------------------footer-----------------------------------------*/
+    #footer {padding: 50px 30px 40px;}
+    .footer-logo { width: 35%;}
+    .advantage {width: 33%; position: relative;float: left;}
+    .footer-title {margin-bottom: 10px; }
+    .footer-link-m{margin-bottom: 20px;}
+    .footer-email {margin: 40px 0 0;}
+    .footer-genuine_icons {margin: 35px 0;}
+    hr {margin-bottom: 30px;}
+    #footer {padding: 50px 10px 15px; }
+    
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+      
+   
+}
+
+@media (max-width: 575.98px) {
+    /*--------------------- General -----------------------------------------*/
+    /* .header-icon {width: 20px; height: 20px; margin-left: 10px;} */
+    .mobile-view{display: block;}
+    .desktop-view{display: none;}
+    #hero { height: 90vh; }
+    #hero .carousel, #hero .carousel-inner, #hero .carousel-item, #hero .carousel-item::before { top: 15px;}
+    
+    /*--------------------- Index -----------------------------------------*/
+
+    /* Banner part  */
+    .banner-logo-mobile {top: 65%;}
+    .yellow-btn { padding: 10px 20px; font-size: 14px;}
+
+    /* Brands  */
+     .home-sec1 {padding: 40px 0 0;}
+     .sec-heading1 {margin-bottom: 40px;}
+     .home-sec1 p {font-size: 13px;}
+     .home-sec1 h2 {font-size: 40px;}
+     .brands {padding: 30px 0 0;}
+    .brand-logo {top: 120px; right: 0; gap: 20px;}
+    .brand-logo img{width: 50%;}
+    .index-white-btn , .index-black-btn { padding: 10px 20px; font-size: 14px;}
+    .brand-logo-modanaa { gap: 20px;}
+    .logo-width-monadaa {width: 230px;}
+    .monadaa-mobile-view{display: block;}
+    .monadaa-desktop-view{display: none;}
+    .home-sec2 { padding: 60px 20px;}
+    
+
+    /* Arrival part  */
+    .arrival-heading h2 {
+        font-size: 40px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .arrival-heading p {font-size: 16px;text-align: center;}
+    .arrival-btn { align-items: center;}
+    .arrival-btn p {
+        width: 100%;
+        font-size: 10px;
+        text-align: center;
+    }
+    .view-btn { padding: 10px 30px; font-size: 14px;}
+    .swiper-img{width: 100%;}
+    .swiper-button1 {right: 10px; top: 45%;}
+    .swiper-button2 {top: 230px; left: 20px;}
+    
+    /* Winter collection  */
+    .winter-collection-mobile {padding: 0;}
+    .winter-collection-mobile{display: block;}
+    .winter-collection{display: none;}
+    .section-heading2 h2 {font-size: 20px;}
+    .section-heading2 { top: 10px; gap: 10px;}
+    .blank-btn , .her-yellow-btn {padding: 10px 10px; font-size: 12px;}
+    .category-btn { gap: 15px;}
+
+    /* Discount  */
+    .leather-section {padding: 0;}
+    .section-heading3 h2 {font-size: 22px;}
+    .section-heading3 p {font-size: 8px; margin-bottom: 0;}
+
+   /*--------------------- lerida Page -----------------------------------------*/
+   /* banner  */
+   .lerida-banner-mobile{display: block;}
+   .lerida-banner-desktop{display:none;}
+   .leridaherosection .slide1{width: 100%;}
+   .lerida-banner img {width: 50%;}
+
+   /* arrival  */
+   .lerida-arrival {padding: 40px 0; text-align: center;}
+   .lerida-swiper-btn {top: 39%;}
+
+   /* category  */
+   .lerida-category-shop h3 {font-size: 30px;}
+   .turquoise-white-clr-btn {padding: 8px 15px;font-size: 13px;}
+
+   /* best seller  */
+   .lerida-bestseller-btn{top: 41%;}
+   .section-heading3 h3 {font-size: 35px;}
+  .lerida-sec-heading2 h2 {font-size: 35px;}
+  .lerida-sec-heading2 p {font-size: 14px; margin-bottom: 0;}
+
+  /* Tranding  */
+  .lerida-tranding {padding: 80px 0 50px;}
+  
+  /* Discount  */
+    .jewewllery-section-mobile{display: block;}
+    .jewewllery-section-desktop{display: none;}
+    .section-heading3 {
+        left: 37%;
+    }
+
+  /* ------------------- Arkar page -------------------------- */
+  .arkar-banner-mobile{display: block;}
+  .arkar-banner-desktop{display: none;}
+  .arkar-leather-discount-mobile-view{display: block;}
+  .arkar-leather-discount{display: none;}
+  .arkar-sec-heading1 h2 {font-size: 30px;}
+  .arkar-sec-heading1 p {font-size: 11px;}
+  .arkar-sec-heading2 h2 {
+	font-size: 40px;
+    text-align: center;
+}
+.arkar-collection {
+	padding: 40px 0;
+}
+.arkar-sec-heading1 {
+	padding: 10px 0 35px;
+}
+.arkar-sec-heading2 p {
+	font-size: 12px;
+    text-align: center;
+}
+
+.arkar-style-slider {
+	padding: 30px;
+	display: flex;
+	flex-direction: column-reverse;
+}
+ .btn-margin{margin-top: 40px;}
+ .arkar-our-collection {left: -20%;}
+
+.arkar-sec-heading3 p {
+	font-size: 12px;
+	width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.arkar-sec-heading3 {
+	right: 40%;
+	top: -50px;
+}
+.arkar-sec-heading3 h2 {
+	font-size: 40px;
+}
+.arkar-discount-txt-mobile {
+	padding: 15px;
+}
+.arkar-discount-bg-mobile img{width: 30%;}
+.arkar-discount-txt-mobile h3 {
+	font-size: 12px;
+}
+.arkar-our-collection-left {left: -40px;}
+.arkar-our-collection-men {left: -4%;}
+.arkar-our-collection-right {left: -80px;}
+.arkar-new-style {padding: 0 0 90px; text-align: center;}
+.arkar-swiper-btn1{bottom: 47%;}
+
+.arkar-bestseller{
+    text-align: center;
+    padding: 250px 0 60px;
+}
+.arkar-sec-heading3{
+    position: absolute;
+    right: 60px;
+    padding: 0;
+    top: 40px;
+}
+
+
+ /*--------------------- About page-----------------------------------------*/
+ .about-banner-mobile{display: block;}
+ .about-banner-desktop{display: none;}
+ 
+ .about-banner h2 {
+	font-size: 40px !important;
+	letter-spacing: 15px !important;
+	top: 55%;
+    left: 5%;
+    color: white !important;
+    position: absolute;
+}
+.about-us-banner h3 {
+    font-size: 40px; 
+	top: 45%;
+	left: 25%;
+}
+.about-us {
+	padding: 90px 20px 20px;
+    text-align: center;
+}
+.roperro-logo img{width: 50%;}
+.about-sec-heading1 p {
+	font-size: 11px;
+	margin-top: 30px;
+}
+.about-sec-heading1 h2 {
+	font-size: 18px;
+}
+.about-yellow-bg {
+	width: 370px;
+	height: 220px;
+	transform: translate(12%, 75%);
+}
+.about-yellow-bg2 {
+	width: 350px;
+	height: 200px;
+	padding: 8px;
+}
+.about-yellow-bg2 h2 {
+	font-size: 30px;
+	margin-bottom: 5px;
+}
+.about-yellow-bg2 h3 {
+	top: 25px;
+	left: 135px;
+	font-size: 14px;
+    font-weight: 500;
+}
+.about-yellow-bg2 p {
+	font-size: 8px;
+}
+.aboutus-our-brands {
+	padding:120px 0 80px;
+}
+.about-sec-heading2 h2 {
+	font-size: 40px;
+}
+.about-sec-heading2 p {
+	font-size: 12px;
+	margin-bottom: 0;
+}
+
+/* ------------------- Contact page -------------------------- */
+
+.contact-us-form-mobile{
+    display: block;
+}
+.contact-us-form-desktop{
+    display: none;
+}
+.right-div {
+	border-bottom: 1px solid #474747;
+    border-right: none;
+    margin-bottom: 25px;
+}
+.contact-service h2 {
+	font-size: 24px;
+	
+}
+.contact-service {
+	height: 25vh;
+}
+.contact-sec-heading1 h2 {
+	font-size: 40px;
+    text-align: center;
+}
+.contact-sec-heading1 p {
+	font-size: 12px;
+}
+
+/* ------------------- Monadaa page -------------------------- */
+.monadaa-banner-mobile{display: block;}
+.monadaa-banner-desktop{display: none;}
+.monadaa-category-shop{display: block;}
+.new-collection-monadaa{text-align: center;}
+.trendy-shopnow{display: none;}
+.details-monadaa{display: none;}
+.details-monadaa-mobile{display: block;}
+.trendy-shopnow-mobile{display: block; margin-bottom: 50px;}
+.monadaa-banner-mobile-view img{width: 80%;}
+.monadaa-sec-heading1 {padding: 50px 0;}
+.monadaa-sec-heading1 h2 {
+	font-size: 70px;
+	transform: translate(15%, -35%);
+    letter-spacing: 0;
+}
+.monadaa-trendy {padding: 0 0 60px;}
+.monadaa-sec-heading2{margin-bottom: 50px; text-align: center;}
+
+/* ------------------- Migear page -------------------------- */
+.migearhero-banner-mobile{display: block;}
+.migearhero-banner-desktop{display: none;}
+.migear-new-arrival-mobile-view{display: block; padding: 20px 20px 60px;}
+.migear-new-arrival{display: none;}
+.migear-banner img {width: 70%;}
+.collections {padding: 60px 0 25px;}
+.migear-sec-heading2 h2{margin: 50px 0;}
+.migear-sec-heading4 p {font-size: 10px;}
+.migear-new-arrival {padding: 65px 0 55px;}
+
+.mobile-view-migearslide{padding: 40px 40px 15px;}
+.migear-trending {position: relative;padding: 100px 0 0;}
+.migear-style-bg {position: absolute;top: 25px;}
+
+/* ------------------- Zimba page -------------------------- */
+.zimba-banner-mobile{display: block;}
+.zimba-banner-desktop{display: none;}
+.zimba-mobile-btn{display: block;}
+.zimba-tranding-mobile{display: block;}
+.zimba-tranding-desktop{display: none;}
+
+.zimba-banner img {width: 50%;}
+.zimba-sec-heading1 p {font-size: 9px;}
+.zimba-trending {padding: 80px 0 110px;}
+.zimba-cat-sec {top: 50%;}
+.zimba-sec-heading3 h2 {font-size: 25px;}
+.zimba-sec-heading3 p {
+	font-size: 10px;
+    margin-bottom: 0;
+}
+.turquoise-clr-btn {font-size: 10px;}
+.zimba-summer-collection {padding: 50px 10px;}
+.summer-girl {top: 0;}
+.summer-girl {
+	width: 40%;
+	top: 10%;
+}
+
+/* ------------------- T&C page -------------------------- */
+.tc-heading { padding: 30px;} 
+
+
+/*--------------------- Roperro-products page -----------------------------------------*/
+.roperro-products-btn {
+	display: block;
+	top: 28%;
+}
+
+.roperro-product-swiper-mobile{display: block;}
+.roperro-product-swiper-desktop{display: none;}
+
+
+.roperro-dropdown {gap: 10px;}
+.roperro-filter {padding: 40px 40px 90px 10px;}
+.product-listing-txt h5 {font-size: 15px;}
+.pagination {
+	justify-content: center;
+	margin-top: 20px;
+}
+
+
+/*--------------------- footer -----------------------------------------*/
+.copyright {font-size: 12px;}
+
+
+     
+
+}
+
+
+@media (max-width: 400px){
+    /* ---------------------------- General ---------------------------- */
+    #header {padding: 20px 10px;}
+    .header-padding {padding: 0 10px;}
+    .header-icon {margin-left: 10px;}
+    .about-yellow-bg {transform: translate(-2.5%, 75%);}
+    .about-sec-heading2 p {margin-top: 50px;}
+
+    .btn-secondary {
+        font-size: 11px;
+        gap: 0;
+    }
+    .roperro-filter {padding: 30px 0px 70px 0px;}
+}
+
+
