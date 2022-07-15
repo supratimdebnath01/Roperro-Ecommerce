@@ -109,7 +109,7 @@
                 <div class="col-lg-4 col-sm-4 d-flex align-items-center justify-content-center">
                     <div class="zimba-sec-heading2 zimba-tranding-desktop">
                        <h2 class="secondary-font">TRENDING <br> STYLES</h2>
-                       <a href="<?=$wpurl?>/product-category/zimba-trending-collections/" class="zimba-white-btn">VIEW ALL</a>
+                       <a href="" class="zimba-white-btn">VIEW ALL</a>
                     </div>
                     <div class="zimba-sec-heading2 zimba-tranding-mobile">
                        <h2 class="secondary-font">TRENDING STYLES</h2>
@@ -175,7 +175,7 @@
 
     <div class="zimba-mobile-btn">
       <div class="zimba-mobileview-btn">
-        <a href="<?=$wpurl?>/product-category/zimba-trending-collections/" class="zimba-white-btn">VIEW ALL</a>
+        <a href="" class="zimba-white-btn">VIEW ALL</a>
       </div>
       </div>
     
@@ -191,7 +191,7 @@
                   <div class="zimba-sec-heading3">
                       <p>HOUSE OF ZIMBA</p>
                       <h2 class="secondary-font">SUMMER <br> COLLECTION</h2>
-                      <a href="<?=$wpurl?>/product-category/zimba-summer-collections/" class="turquoise-clr-btn">SHOP NOW</a>
+                      <a href="" class="turquoise-clr-btn">SHOP NOW</a>
                   </div>
               </div>
           </div>

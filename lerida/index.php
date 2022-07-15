@@ -95,7 +95,7 @@
               <h2 class="secondary-font d-none d-sm-block d-md-none d-lg-none">NEW ARRIVALS</h2>
               <h2 class="secondary-font d-block d-sm-none">NEW ARRIVALS</h2>
               <p>The online store presents selected successful collections, fashionable women’s clothing which is sewn exclusively from high quality material</p>
-              <a href="<?=$wpurl?>/product-brand/lerida/" class="turquoise-clr-btn">EXPLORE</a>
+              <a href="" class="turquoise-clr-btn">EXPLORE</a>
               </div>
             </div>
             
@@ -108,7 +108,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/lerida/new-arrival-img1.jpg" alt="new-arrival-img1" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/volkan-mini-backpack/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -118,7 +118,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/lerida/new-arrival-img2.jpg" alt="new-arrival-img2" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/beste-hangbag/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -128,7 +128,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/lerida/new-arrival-img3.jpg" alt="new-arrival-img3" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/efe-slg-combo/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -138,7 +138,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/lerida/new-arrival-img4.jpg" alt="new-arrival-img4" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/inaya-handbag/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -164,14 +164,14 @@
             <img src="../assets/img/lerida/for-her-lerida.jpg" alt="lerida-for-her-img" class="common-width">
              <div class="lerida-category-shop">
                 <h3 class="secondary-font">FOR HER</h3>
-                <a href="<?=$wpurl?>/product-category/women/leridas-women-collection/" class="turquoise-white-clr-btn">SHOP NOW</a>
+                <a href="" class="turquoise-white-clr-btn">SHOP NOW</a>
              </div>
           </div>
           <div class="col-lg-12 p-0 position-relative">
             <img src="../assets/img/lerida/for-him-lerida.jpg" alt="lerida-for-him-img" class="common-width">
              <div class="lerida-category-shop">
                 <h3 class="secondary-font">FOR HIM</h3>
-                <a href="<?=$wpurl?>/product-category/men/leridas-men-collection/" class="turquoise-white-clr-btn">SHOP NOW</a>
+                <a href="" class="turquoise-white-clr-btn">SHOP NOW</a>
              </div>
           </div>
       </div>
@@ -195,7 +195,7 @@
                                 <div class=" p-0 position-relative slider-img">                                
                                   <img src="../assets/img/lerida/best-seller-img1.jpg" alt="lerida-best-seller-img1" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/cemile-crossbody-handbag/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -205,7 +205,7 @@
                                 <div class=" p-0 position-relative slider-img">                                
                                   <img src="../assets/img/lerida/best-seller-img2.jpg" alt="lerida-best-seller-img2" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/inaya-handbag/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -215,7 +215,7 @@
                                 <div class=" p-0 position-relative slider-img">                                
                                   <img src="../assets/img/lerida/best-seller-img4.jpg" alt="lerida-best-seller-img4" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/burcu-structured-crossbody/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -249,7 +249,7 @@
                                 <div class=" p-0 position-relative slider-img">                                
                                  <img src="../assets/img/lerida/best-seller-img3.jpg" alt="lerida-best-seller-img3-trending" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/defne-tote-bag/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -259,7 +259,7 @@
                                 <div class=" p-0 position-relative slider-img">                                
                                  <img src="../assets/img/lerida/best-seller-img5.jpg" alt="lerida-best-seller-img5-trending" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/ozan-briefcase/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -278,7 +278,7 @@
      <section class="jewewllery-section-desktop">
         <div class="container-fluid position-relative p-0">
             <div class="row">
-              <a href="<?=$wpurl?>/product/afet-crossbody-bag/"><img src="../assets/img/lerida/lerida-discount.jpg" alt="lerida-discount-jewellery-desktop" class="common-width"></a>
+              <a href=""><img src="../assets/img/lerida/lerida-discount.jpg" alt="lerida-discount-jewellery-desktop" class="common-width"></a>
               <div class="col-lg-12">
               <div class="section-heading3">
                 <p>HOUSE OF ROPERRO</p>
@@ -292,7 +292,7 @@
     <section class="jewewllery-section-mobile">
         <div class="container-fluid position-relative p-0">
             <div class="row">
-              <a href="<?=$wpurl?>/product/afet-crossbody-bag/"><img src="../assets/img/lerida/lerida-discount-mobile.jpg" alt="lerida-discount-jewellery-mobile" class="common-width"></a>
+              <a href=""><img src="../assets/img/lerida/lerida-discount-mobile.jpg" alt="lerida-discount-jewellery-mobile" class="common-width"></a>
               <div class="col-lg-12">
               <div class="section-heading3">
                 <p>HOUSE OF ROPERRO</p>

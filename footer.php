@@ -20,9 +20,9 @@
                 <div class="list">
                    <!-- <a href="#" class="link">FAQ</a>
                    <a href="#" class="link">Shipping</a> -->
-                   <a href="/returns-and-refunds-policy.php" class="link">Return Payment</a>
+                   <!-- <a href="/returns-and-refunds-policy.php" class="link">Return Payment</a>
                    <a href="/returns-and-refunds-policy.php" class="link">Refund Cancellation</a>
-                   <a href="/terms-and-conditions.php" class="link">Terms & Conditions</a>
+                   <a href="/terms-and-conditions.php" class="link">Terms & Conditions</a> -->
                    <a href="/privacy-policy.php" class="link">Privacy Policy</a>
                    <a href="/shipping-policy.php" class="link">Shipping Policy</a>
                 </div>

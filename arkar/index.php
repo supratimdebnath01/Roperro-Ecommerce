@@ -101,21 +101,21 @@
             <img src="../assets/img/arkar/arkar-collection1.jpg" alt="arkar-collection1" class="common-width">
               <div class="arkar-our-collection-left">            
                 <h3 class="secondary-font">FOR <br> <span>WOMEN</span></h3>
-                <a href="<?=$wpurl?>/product-category/women/arkars-women-collection/"  class="index-white-btn red-org-clr">SHOP NOW</a>
+                <a href=""  class="index-white-btn red-org-clr">SHOP NOW</a>
               </div>
            </div>
            <div class="col-lg-6 col-sm-6 p-0 position-relative">
             <img src="../assets/img/arkar/arkar-collection2.jpg" alt="arkar-collection2" class="common-width">
               <div class="arkar-our-collection-men">            
                 <h3 class="secondary-font">FOR <br> <span>MEN</span></h3>
-                <a href="<?=$wpurl?>/product-category/men/arkars-men-collection/" class="index-white-btn red-org-clr">SHOP NOW</a>
+                <a href="" class="index-white-btn red-org-clr">SHOP NOW</a>
               </div>
            </div>
            <div class="col-lg-6 col-sm-6 p-0 position-relative">
             <img src="../assets/img/arkar/arkar-collection3.jpg" alt="arkar-collection3" class="common-width">
               <div class="arkar-our-collection-right">            
                 <h3 class="secondary-font">BEST IN WOMEN <br> <span>LIFESTYLE</span></h3>
-                <a href="<?=$wpurl?>/product-category/arkar-trends/" class="index-white-btn red-org-clr">SHOP NOW</a>
+                <a href="" class="index-white-btn red-org-clr">SHOP NOW</a>
               </div>
            </div>
            <div class="col-lg-6 col-sm-6 p-0 position-relative">
@@ -138,7 +138,7 @@
                 <h2 class="secondary-font d-none d-sm-block d-md-none d-lg-none">NEW STYLES</h2>
                 <h2 class="secondary-font d-block d-sm-none">NEW STYLES</h2>
                 <p>The online store presents selected successful collections, fashionable women’s clothing which is sewn exclusively from quality material.</p>
-                <a href="<?=$wpurl?>/product-brand/arkar/" class="index-black-btn red-orange-btn">VIEW ALL</a>
+                <a href="" class="index-black-btn red-orange-btn">VIEW ALL</a>
                 </div>
           </div>
             
@@ -151,7 +151,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/arkar/new-style1.jpg" alt="arkar-new-style1" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/caroline-cargo-pants/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -161,7 +161,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/arkar/new-style2.jpg" alt="arkar-new-style2" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/defne-denim-pants-azure-blue/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -171,7 +171,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/arkar/new-style3.jpg" alt="arkar-new-style3" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/defne-denim-pants-charcoal-grey/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/arkar/new-style4.jpg" alt="arkar-new-style4" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/elena-fitted-bustier-denim-dress-ombre-charcoal-grey/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -245,7 +245,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/arkar/new-style5.jpg" alt="arkar-best-seller-style5" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/hande-denim-corset-dress-vintage-blue/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -255,7 +255,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/arkar/new-style6.jpg" alt="arkar-best-seller-style6" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/hande-denim-corset-dress-azure-blue/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -265,7 +265,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/arkar/new-style7.jpg" alt="arkar-best-seller-style7" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/elena-fitted-bustier-denim-dress-distressed-charcoal-grey/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -275,7 +275,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/arkar/new-style8.jpg" alt="arkar-best-seller-style8" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/defne-denim-pants-midnight-blue/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -298,7 +298,7 @@
                 <h2 class="secondary-font d-none d-sm-block d-md-none d-lg-none">BEST SELLER</h2>
                 <h2 class="secondary-font d-block d-sm-none">BEST SELLER</h2>
                 <p>The online store presents selected successful collections, fashionable women’s clothing which is sewn exclusively from high quality material.</p>
-                <a href="<?=$wpurl?>/product-brand/arkar/" class="index-black-btn red-orange-btn">VIEW ALL</a>
+                <a href="" class="index-black-btn red-orange-btn">VIEW ALL</a>
                 </div>
           </div>
         </div>

@@ -78,7 +78,7 @@
               <p>HOUSE OF ROPERRO</p>
               <h2 class ="secondary-font">NEW COLLECTIONS</h2>
               <p class ="store-txt">The online store presents selected successful collections, fashionable women’s clothing which is sewn exclusively from quality material.</p>
-              <a href="<?=$wpurl?>/product-brand/monadaa/" class ="index-black-btn">VIEW ALL</a>
+              <a href="" class ="index-black-btn">VIEW ALL</a>
            </div>
           </div>
            </div>
@@ -97,29 +97,29 @@
               <div class="col-lg-8 col-sm-8 p-0 position-relative">
                 <div class="row">
               <div class="col-lg-6 col-sm-6 p-0">
-                <a href="<?=$wpurl?>/product/elise-structured-bag/"><img src="../assets/img/monadaa/trendy-img1.jpg" alt="monadaa-trendy-img1" class="image100 d-none d-md-block d-lg-block d-sm-none block-h2"></a>
-                <a href="<?=$wpurl?>/product/elise-structured-bag/"><img src="../assets/img/monadaa/trendy-img1.jpg" alt="monadaa-trendy-img1" class="image100 d-none d-sm-block d-md-none d-lg-none"></a>
+                <a href=""><img src="../assets/img/monadaa/trendy-img1.jpg" alt="monadaa-trendy-img1" class="image100 d-none d-md-block d-lg-block d-sm-none block-h2"></a>
+                <a href=""><img src="../assets/img/monadaa/trendy-img1.jpg" alt="monadaa-trendy-img1" class="image100 d-none d-sm-block d-md-none d-lg-none"></a>
                 <img src="../assets/img/monadaa/trendy-img1.jpg" alt="" class="image100  d-block d-sm-none">
                 <div class="monadaa-category-shop shop1">
-                <a href="<?=$wpurl?>/product/elise-structured-bag/" class="yellow-btn">SHOP NOW</a>
+                <a href="" class="yellow-btn">SHOP NOW</a>
              </div>
               </div>
               <div class="col-lg-6 col-sm-6 p-0 position-relative">
-                <a href="<?=$wpurl?>/product/lachlan-sling-bag/"><img src="../assets/img/monadaa/trendy-img2.jpg" alt="monadaa-trendy-img2" class="image100 d-none d-md-block d-lg-block d-sm-none block-h2"></a>
-                <a href="<?=$wpurl?>/product/lachlan-sling-bag/"><img src="../assets/img/monadaa/trendy-img2.jpg" alt="monadaa-trendy-img2" class="image100 d-none d-sm-block d-md-none d-lg-none"></a>
+                <a href=""><img src="../assets/img/monadaa/trendy-img2.jpg" alt="monadaa-trendy-img2" class="image100 d-none d-md-block d-lg-block d-sm-none block-h2"></a>
+                <a href=""><img src="../assets/img/monadaa/trendy-img2.jpg" alt="monadaa-trendy-img2" class="image100 d-none d-sm-block d-md-none d-lg-none"></a>
                 <img src="../assets/img/monadaa/trendy-img2.jpg" alt="" class="image100 d-block d-sm-none">
                 <div class="monadaa-category-shop shop2">
-                <a href="<?=$wpurl?>/product/lachlan-sling-bag/" class="yellow-btn">SHOP NOW</a>
+                <a href="/" class="yellow-btn">SHOP NOW</a>
              </div>
               </div>
               </div>
               <div class=row>
               <div class="col-lg-6 col-sm-6 p-0 position-relative">
-                <a href="<?=$wpurl?>/product/louis-tote-bag/"><img src="../assets/img/monadaa/trendy-img4.jpg" alt="monadaa-trendy-img4" class="image100 d-none d-md-block d-lg-block d-sm-none block-h2"></a>
-                <a href="<?=$wpurl?>/product/louis-tote-bag/"><img src="../assets/img/monadaa/trendy-img4.jpg" alt="monadaa-trendy-img4" class="image100 d-none d-sm-block d-md-none d-lg-none"></a>
+                <a href=""><img src="../assets/img/monadaa/trendy-img4.jpg" alt="monadaa-trendy-img4" class="image100 d-none d-md-block d-lg-block d-sm-none block-h2"></a>
+                <a href=""><img src="../assets/img/monadaa/trendy-img4.jpg" alt="monadaa-trendy-img4" class="image100 d-none d-sm-block d-md-none d-lg-none"></a>
                 <img src="../assets/img/monadaa/trendy-img4.jpg" alt="" class="image100 d-block d-sm-none">
                 <div class="monadaa-category-shop shop2">
-                <a href="<?=$wpurl?>/product/louis-tote-bag/" class="yellow-btn">SHOP NOW</a>
+                <a href="" class="yellow-btn">SHOP NOW</a>
              </div>
               </div>
               <div class="col-lg-6 col-sm-6 p-0 position-relative">
@@ -127,17 +127,17 @@
                     <h2 class="secondary-font">TRENDY</h2>
                     <h3>MONDAY</h3>
                     <p>The online store presents selected successful collections. </p>
-                    <a href="<?=$wpurl?>/product-category/monadaa-trendy-monday/" class="index-black-btn">SHOP NOW</a>
+                    <a href="" class="index-black-btn">SHOP NOW</a>
                 </div>                           
               </div>
               </div>
               </div>
               <div class="col-lg-4 col-sm-4 p-0 position-relative">
-              <a href="<?=$wpurl?>/product/camille-structured-bag/"><img src="../assets/img/monadaa/trendy-img3.jpg" alt="monadaa-trendy-img3" class="image100 common-height d-none d-md-block d-lg-block d-sm-none block-h2"></a>
-              <a href="<?=$wpurl?>/product/camille-structured-bag/"><img src="../assets/img/monadaa/monadaa-mobile-img4.jpg" alt="monadaa-trendy-img4" class="image100 common-height d-none d-sm-block d-md-none d-lg-none"></a>
+              <a href=""><img src="../assets/img/monadaa/trendy-img3.jpg" alt="monadaa-trendy-img3" class="image100 common-height d-none d-md-block d-lg-block d-sm-none block-h2"></a>
+              <a href=""><img src="../assets/img/monadaa/monadaa-mobile-img4.jpg" alt="monadaa-trendy-img4" class="image100 common-height d-none d-sm-block d-md-none d-lg-none"></a>
               <img src="../assets/img/monadaa/monadaa-mobile-img4.jpg" alt="" class="image100 common-height d-block d-sm-none">
               <div class="monadaa-category-shop shop2">
-                <a href="<?=$wpurl?>/product/camille-structured-bag/" class="yellow-btn">SHOP NOW</a>
+                <a href="" class="yellow-btn">SHOP NOW</a>
              </div>
               </div>
           </div>
@@ -148,7 +148,7 @@
         <h2 class="secondary-font">TRENDY</h2>
         <h3>MONDAY</h3>
         <p>The online store presents selected successful collections. </p>
-        <a href="<?=$wpurl?>/product-category/monadaa-trendy-monday/" class="index-black-btn">SHOP NOW</a>
+        <a href="" class="index-black-btn">SHOP NOW</a>
     </div>    
     
   <!-- ======= monadaa About ======= -->
@@ -191,7 +191,7 @@
               <h2 class="secondary-font d-none d-sm-block d-md-none d-lg-none">GIFTING COLLECTION</h2>
               <h2 class="secondary-font d-block d-sm-none">GIFTING COLLECTION</h2>
               <p>A priceless gift for your loved ones</p>
-              <a href="<?=$wpurl?>/product-category/mondaa-gifting-collections/" class="yellow-btn">SHOP NOW</a>
+              <a href="" class="yellow-btn">SHOP NOW</a>
               </div>
             </div>
             
@@ -204,7 +204,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/monadaa/monadaa-product1.jpg" alt="monadaa-product1" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/elise-structured-bag/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -214,7 +214,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/monadaa/monadaa-product2.jpg" alt="monadaa-product2" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/louis-tote-bag/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -234,7 +234,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/monadaa/monadaa-product4.jpg" alt="monadaa-product4" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/romane-structured-bag/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>

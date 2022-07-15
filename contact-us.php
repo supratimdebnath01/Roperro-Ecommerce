@@ -133,7 +133,7 @@
                 <h4>Phone</h4>
                 </div> 
                 <div class="detail-contact">
-                  <p><a href="tel:+919773913767" class="detail-contact-phone">+91 9773913767</a></p>
+                  <p><a href="tel:+919773913767" class="detail-contact-phone">1234567898</a></p>
                 </div> 
                 </div>             
               </div>
@@ -144,7 +144,7 @@
                 <h4>Email</h4>
                 </div> 
                 <div class="detail-contact">
-                  <p><a href="mailto:ccare@roperro.com" class="detail-contact-phone">ccare@roperro.com</a></p>
+                  <p><a href="mailto:abcs@tcgh.com" class="detail-contact-phone">abcs@tcgh.com</a></p>
                 </div> 
                 </div>             
               </div>
@@ -154,7 +154,7 @@
                 <h4>Address</h4>
                 </div> 
                 <div class="detail-contact">
-                  <p><a href="https://goo.gl/maps/hKJACmHVsg5ARrYH9" target="_blank" class="detail-contact-phone">B47, Block B Sector 57, Noida, <br>Uttar Pradesh 201301</a></p>
+                  <p><a href="https://goo.gl/maps/hKJACmHVsg5ARrYH9" target="_blank" class="detail-contact-phone">Lorem ipsum dolor sit. <br>Lorem, ipsum dolor.</a></p>
                 </div>              
               </div>
           </div>

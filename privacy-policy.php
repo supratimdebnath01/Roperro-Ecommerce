@@ -30,7 +30,7 @@
                         </h3>
 
                         <p><b>1. Who is ROPERRO PRIVATE LIMITED?</b></p>
-                        <p>ROPERRO PRIVATE LIMITED, a company incorporated under the laws of India, having its registered office at B47, Block B Sector 57, Noida, Uttar Pradesh 201301 (<b>“the Company”</b>) offers various retail solutions, including through its website www.roperro.comand other applications (<b>"Platforms"</b>) various online lifestyle, fashion, grocery and electronics solutions, which inter alia facilitates the sale and purchase of products across categories related to fashion & lifestyle and general merchandise (<b>"Products"</b>) by users of the Platforms (<b>"Users"</b>)</p>
+                        <p>ROPERRO PRIVATE LIMITED, a company incorporated under the laws of India, having its registered office at B47, Block B Sector 57 (<b>“the Company”</b>) offers various retail solutions, including through its website www.roperro.com and other applications (<b>"Platforms"</b>) various online lifestyle, fashion, grocery and electronics solutions, which inter alia facilitates the sale and purchase of products across categories related to fashion & lifestyle and general merchandise (<b>"Products"</b>) by users of the Platforms (<b>"Users"</b>)</p>
 
                         <p><b>2. What is this Privacy Policy?</b></p>
                         <p>This privacy policy (the <b>“Privacy Policy”</b>), together with the terms of use, describes the Company’s policies and procedures on the collection, use and disclosure of the information provided by Users and Visitors (as defined herein below) of the Platforms. The Company shall not use the User’s information in any manner except as provided under this Privacy Policy. Every User who accesses or uses the Platforms shall be bound by this Privacy Policy.</p>
@@ -142,7 +142,7 @@
 
                         <p><b>5.23.</b> All information collected from the Users by the Company is maintained in electronic form on servers and/or cloud systems and shall be accessible by certain employees of the Company. The User information may also be converted to physical form from time to time. Regardless of the manner of storage, the Company shall make commercially reasonable endeavours to ensure that the User information is rendered confidential, and will disclose User information only in accordance with the terms of this Privacy Policy.</p>
 
-                        <p><b>5.24.</b> The User consents to the Company reproducing/publishing all testimonials and reviews given by the User (whether on the Website, social media platforms, or in any other manner whatsoever) in relation to the Company or any of the Products, together with the User’s name and location, on the Website, on such page and in such position as the Company may determine in its sole discretion. The User agrees that the Company may edit the testimonials and reviews provided by the User and reproduce/publish such edited or paraphrased versions of the testimonials and reviews on the Website. If the User has any concerns with the reproduction/publication of any testimonial or review provided by the User on the Website, the User may contact the Company at ccare@roperro.com.</p>
+                        <p><b>5.24.</b> The User consents to the Company reproducing/publishing all testimonials and reviews given by the User (whether on the Website, social media platforms, or in any other manner whatsoever) in relation to the Company or any of the Products, together with the User’s name and location, on the Website, on such page and in such position as the Company may determine in its sole discretion. The User agrees that the Company may edit the testimonials and reviews provided by the User and reproduce/publish such edited or paraphrased versions of the testimonials and reviews on the Website. If the User has any concerns with the reproduction/publication of any testimonial or review provided by the User on the Website, the User may contact the Company at abcd@thhg.com.</p>
 
                         </div>
 
@@ -162,13 +162,13 @@
                         <div class="ms-3">
                         <p><b>7.1.</b> The third party service providers with whom the Company may share personal information or Financial Information provided by Users are not permitted to market their own services or send promotional e-mails or engage in promotional communication with the Users. The Company provides all Users with the opportunity to opt-out of receiving non-essential, promotional, or marketing-related communication from itself or its partners. These settings can be found on the Platforms.</p>
 
-                        <p><b>7.1.</b>  If a User wishes to remove his/her/its contact information from all the Company’s lists and newsletters, the User can click on the "unsubscribe" link or follow the instructions in each e-mail message. Alternatively, the User can contact the Company at ccare@roperro.com. The Company reserves the right to limit membership based on availability of contact information. All Users will be notified by email prior to any actions taken.</p>
+                        <p><b>7.1.</b>  If a User wishes to remove his/her/its contact information from all the Company’s lists and newsletters, the User can click on the "unsubscribe" link or follow the instructions in each e-mail message. Alternatively, the User can contact the Company at abcd@thhg.com. The Company reserves the right to limit membership based on availability of contact information. All Users will be notified by email prior to any actions taken.</p>
 
                         </div>
 
                         <p><b>8. Feedback or Concern</b></p>
                         <p>For feedback or concern, if any, kindly contact Grievance Officer at:</p>
-                        <p><b>Email Address:</b><a href ="mailto:ccare@roperro.com">ccare@roperro.com</a></p>
+                        <p><b>Email Address:</b><a href ="mailto:abcd@thhg.com">abcd@thhg.com</a></p>
 
                     </div>
                 </div>

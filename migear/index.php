@@ -107,7 +107,7 @@
                         <div class="swiper-slide">
                             <div class="swiper px-0 swiper-initialized swiper-horizontal swiper-pointer-events">
                                 <div class=" p-0 position-relative slider-img">                                
-                                  <a href="<?=$wpurl?>/product-category/migears-rucksack/"><img src="../assets/img/migear/rucksack.jpg" alt="migear-rucksack" class="swiper-img"></a>
+                                  <a href=""><img src="../assets/img/migear/rucksack.jpg" alt="migear-rucksack" class="swiper-img"></a>
                                     <p>RUCKSACK</p>
                                 </div>
                             </div>
@@ -115,7 +115,7 @@
                         <div class="swiper-slide">
                             <div class="swiper px-0 swiper-initialized swiper-horizontal swiper-pointer-events">
                                 <div class=" p-0 position-relative slider-img">                                
-                                  <a href="<?=$wpurl?>/product-category/migears-backpack/"><img src="../assets/img/migear/Backpack.jpg" alt="migear-bckpack" class="swiper-img"></a>
+                                  <a href=""><img src="../assets/img/migear/Backpack.jpg" alt="migear-bckpack" class="swiper-img"></a>
                                   <p>BACKPACK</p>                                 
                                 </div>
                             </div>
@@ -123,7 +123,7 @@
                         <div class="swiper-slide">
                             <div class="swiper px-0 swiper-initialized swiper-horizontal swiper-pointer-events">
                                 <div class=" p-0 position-relative slider-img">                                
-                                  <a href="<?=$wpurl?>/product-category/migears-duffle-bag/"><img src="../assets/img/migear/Duffle.jpg" alt="migear-duffle" class="swiper-img"></a>
+                                  <a href=""><img src="../assets/img/migear/Duffle.jpg" alt="migear-duffle" class="swiper-img"></a>
                                     <p>DUFFLE</p>                                 
                                 </div>
                             </div>
@@ -131,7 +131,7 @@
                         <div class="swiper-slide">
                             <div class="swiper px-0 swiper-initialized swiper-horizontal swiper-pointer-events">
                                 <div class=" p-0 position-relative slider-img">                                
-                                  <a href="<?=$wpurl?>/product-category/migears-laptop-bag/"><img src="../assets/img/migear/Laptop.jpg" alt="migear-laptop" class="swiper-img"></a>
+                                  <a href=""><img src="../assets/img/migear/Laptop.jpg" alt="migear-laptop" class="swiper-img"></a>
                                     <p>LAPTOP BAGS</p>
                                 </div>
                             </div>
@@ -142,7 +142,7 @@
                 <div class="swiper-button2 "><a href=""><img src="../assets/img/arrow-white.png" alt=""></a></div>
               </div>
             </div>
-            <!-- <div><a href="<?=$wpurl?>/product-brand/migear/" class="migear-white-btn">VIEW COLLECTION</a></div> -->
+            <!-- <div><a href="" class="migear-white-btn">VIEW COLLECTION</a></div> -->
 
       </div>
     </section> <!-- Our collection ends here  -->
@@ -156,8 +156,8 @@
                   <h2 class="secondary-font d-none d-md-block d-lg-block d-sm-none block-h2">TRENDING <br> STYLES</h2>
                   <h2 class="secondary-font d-none d-sm-block d-md-none d-lg-none">TRENDING STYLES</h2>
                   <h2 class="secondary-font d-block d-sm-none">TRENDING STYLES</h2>
-                  <a href="<?=$wpurl?>/product-category/migear-trending-collections/" class="migear-white-btn d-none d-md-block d-lg-block d-sm-none block-h2">VIEW ALL</a>
-                  <a href="<?=$wpurl?>/product-category/migear-trending-collections/" class="migear-white-btn d-none d-sm-block d-md-none d-lg-none">VIEW ALL</a>
+                  <a href="" class="migear-white-btn d-none d-md-block d-lg-block d-sm-none block-h2">VIEW ALL</a>
+                  <a href="" class="migear-white-btn d-none d-sm-block d-md-none d-lg-none">VIEW ALL</a>
               </div>
           </div>
   
@@ -180,7 +180,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/migear/trending-styles-2.jpg" alt="migear-trending-styles-2" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/the-commuter-backpack-grey-black/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -220,7 +220,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                  <img src="../assets/img/migear/trending-styles-6.jpg" alt="migear-trending-styles-6" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/peek-pink-backpack-peek-pink/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -243,7 +243,7 @@
                   <div class="migear-sec-heading3">
                       <h2 class="secondary-font">NEW <br> ARRIVALS</h2>
                       <p>The online store presents selected successful collections, fashionable women’s clothing which is sewn exclusively from fquality material.</p>
-                      <a href="<?=$wpurl?>/product-brand/migear/" class="migear-white-btn">VIEW ALL</a>
+                      <a href="" class="migear-white-btn">VIEW ALL</a>
                   </div>
               </div>
               <div class="col-lg-4 col-sm-4">
@@ -266,7 +266,7 @@
           <div class="row">
               <div class="col-lg-12">
                   <div class="migear-sec-heading3-mobile">
-                    <a href="<?=$wpurl?>/product-brand/migear/" class="migear-white-btn">VIEW ALL</a>
+                    <a href="" class="migear-white-btn">VIEW ALL</a>
                       <h2 class="secondary-font">NEW ARRIVALS</h2>
                       <p>The online store presents selected successful collections, fashionable women’s clothing which is sewn exclusively from fquality material.</p>
                   </div>
@@ -303,7 +303,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                   <img src="../assets/img/migear/best-seller-img1.jpg" alt="migear-best-seller-img1" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/mt-adventure-backpack-pink-black/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -333,7 +333,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                   <img src="../assets/img/migear/best-seller-img4.jpg" alt="bmigear-best-seller-img4" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/celestial-buckle-backpack-black/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -343,7 +343,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                   <img src="../assets/img/migear/best-seller-img5.jpg" alt="migear-best-seller-img5" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/ocean-sway-camo-backpack-ocean/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>
@@ -363,7 +363,7 @@
                                 <div class="p-0 position-relative slider-img">                                
                                   <img src="../assets/img/migear/best-seller-img7.jpg" alt="migear-best-seller-img7" class="swiper-img">
                                     <div class="buy-now-btn">
-                                        <a href="<?=$wpurl?>/product/the-compose-tote-backpack-blueblack/" class="gray-btn w-100">BUY NOW</a>
+                                        <a href="" class="gray-btn w-100">BUY NOW</a>
                                     </div>
                                 </div>
                             </div>

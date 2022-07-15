@@ -1,5 +1,5 @@
 <?php 
-  $wpurl="https://shop.roperro.com";
+  $wpurl="#";
 ?>
 
 <!-- ======= Header ======= -->

@@ -47,7 +47,7 @@
                         <p>When your order has shipped, you will receive an email notification from us which will include a tracking number you can use to check its status. Please allow 48 -72 hours for the tracking information to become available. </p>
                         <br>
                         <p>If you haven’t received your order within 4-7 days of receiving your shipping confirmation email, please contact us at <u><a href
-                        ="mailto:ccare@roperro.com">ccare@roperro.com</a></u> with your name and order number, and we will look into it for you.</p>
+                        ="mailto:abcd@thhg.com">abcd@thhg.com</a></u> with your name and order number, and we will look into it for you.</p>
                     </div>
                 </div>
             </div>
